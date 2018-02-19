@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, set eiusmod tempor inci
 [Article nine.][art9]  
 [Article ten.][art10]  
 
-[art1]: article1.html
+[Hormone Therapy 1]: ht1.html
 [art2]: article2.html
 [art3]: article3.html
 [art4]: article4.html
